@@ -16,7 +16,7 @@ I love building games and experimenting with mechanics.
 ---
 
 ## 📫 Connect With Me  
-- Email: lebronjamesisthegoat27@example.com  
+- Email: lebronjamesisthegoat27@gmail.com
 
 ---
 
