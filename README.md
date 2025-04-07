@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Baby Xeno and I enjoy coding and i'm from the United States🦅!</h2>
+<h2 align="left">Hi 👋! My name is Baby Xeno, I enjoy coding and i'm from the United States🦅!</h2>
 
 ###
 
